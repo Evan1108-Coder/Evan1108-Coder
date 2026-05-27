@@ -46,12 +46,15 @@
 
 </div>
 
-## Featured Projects
+## Pinned Projects
 
 | Project | What it is |
 | --- | --- |
-| **[Advanced FlipBook Recreation](https://github.com/Evan1108-Coder/Advanced-FlipBook-Recreation)** | A local-first AI visual knowledge workspace for generating interactive flipbooks, exploring topics visually, and organizing connected ideas on an infinite canvas. |
-| **[P-Setup](https://github.com/Evan1108-Coder/P-Setup)** | An intelligent project setup and management CLI that detects your stack, installs dependencies, configures environments, and helps keep projects healthy. |
+| **[Website-Youtube-File-AI-Scraper](https://github.com/Evan1108-Coder/Website-Youtube-File-AI-Scraper)** | AI-powered Discord bot for summarizing websites, YouTube videos, documents, images, audio, and video files. |
+| **[AI-Debate-Council](https://github.com/Evan1108-Coder/AI-Debate-Council)** | Multi-agent debate and consensus system where AI models take roles, debate topics, and synthesize better answers. |
+| **[P-Setup](https://github.com/Evan1108-Coder/P-Setup)** | AI-powered CLI that scans projects, installs dependencies, configures environments, and verifies everything works. |
+| **[PlayWright-Local-Status-Data-Playlens](https://github.com/Evan1108-Coder/PlayWright-Local-Status-Data-Playlens)** | Local-first observability dashboard for inspecting and sharing Playwright automation runs. |
+| **[Project-Context-Review-Skill-Claude-Codex](https://github.com/Evan1108-Coder/Project-Context-Review-Skill-Claude-Codex)** | Claude/Codex skill that scans a project and generates structured context so AI understands the codebase before writing code. |
 
 ## Contribution Snake
 
