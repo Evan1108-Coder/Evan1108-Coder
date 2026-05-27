@@ -6,7 +6,7 @@
 <!-- Typing SVG -->
 <div align="center">
   <a href="https://github.com/Evan1108-Coder">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Young+Developer+%26+Builder+%F0%9F%9A%80;AI+%26+Animation+Enthusiast+%F0%9F%8E%A8;Building+Cool+Things+Every+Day+%F0%9F%94%A5;Always+Learning%2C+Always+Creating+%F0%9F%92%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=AI-focused+coder+%26+builder+%F0%9F%9A%80;Building+creative+tools+and+developer+utilities+%E2%9C%A8;Learning+AI%2C+web+development%2C+and+databases+%F0%9F%92%A1;Friendly%2C+curious%2C+and+always+coding+%F0%9F%94%A5" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,9 +16,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Evan1108-Coder&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   <a href="mailto:evanlu1108@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <!-- Add more social links here -->
-  <!-- <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-  <!-- <a href="YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
 </div>
 
 <br/>
@@ -28,11 +25,12 @@
 
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🔭 I'm currently working on **[FlipBook](https://github.com/Evan1108-Coder/FlipBook)** & **[SayLess](https://github.com/Evan1108-Coder/SayLess)**
-- 🌱 I'm currently learning **AI/ML, Animation Tech, Full-Stack Dev**
-- 💡 Interested in **AI-powered tools, creative tech, startups**
+- 👋 I'm Evan, a young developer building **AI-powered creative tools, animation projects, and developer utilities**
+- 🔭 I'm currently working on **[Advanced FlipBook Recreation](https://github.com/Evan1108-Coder/Advanced-FlipBook-Recreation)** & **[P-Setup](https://github.com/Evan1108-Coder/P-Setup)**
+- 🌱 I'm currently learning **AI coding, databases, Python, JavaScript, HTML, GitHub, terminals, full-stack development, and AI/ML**
+- 💡 Interested in **AI-powered tools, creative tech, startups, animation, and developer tooling**
 - 🎬 Passionate about **animation & storytelling with AI**
-- ⚡ Fun fact: *[Add a fun fact about yourself here!]*
+- 🎂 Birthday: **November 8**
 - 📫 Reach me at: **evanlu1108@gmail.com**
 
 <br clear="right"/>
@@ -98,13 +96,21 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Evan1108-Coder/FlipBook">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Evan1108-Coder&repo=FlipBook&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Evan1108-Coder/Advanced-FlipBook-Recreation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Evan1108-Coder&repo=Advanced-FlipBook-Recreation&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/Evan1108-Coder/SayLess">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Evan1108-Coder&repo=SayLess&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Evan1108-Coder/P-Setup">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Evan1108-Coder&repo=P-Setup&theme=tokyonight&hide_border=true" />
   </a>
 </div>
+
+### Advanced FlipBook Recreation
+
+A local-first AI visual knowledge workspace for generating interactive flipbooks, exploring topics visually, and organizing connected ideas on an infinite canvas.
+
+### P-Setup
+
+An intelligent project setup and management CLI that detects your stack, installs dependencies, configures environments, and helps keep projects healthy.
 
 ---
 
@@ -127,8 +133,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Evan1108-Coder/Evan1108-Coder/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-> ⚠️ **Note:** The snake animation requires a GitHub Action to generate. I can set that up for you!
 
 ---
 
