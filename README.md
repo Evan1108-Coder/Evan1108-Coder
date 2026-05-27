@@ -46,6 +46,17 @@
 
 </div>
 
+## GitHub Highlights
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Evan1108-Coder&custom_title=Evan%27s%20GitHub%20Stats&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Evan's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evan1108-Coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Evan's Most Used Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Evan1108-Coder&theme=tokyo-night&hide_border=true&area=true&height=220" alt="Evan's GitHub Contribution Graph" />
+</div>
+
 ## Pinned Projects
 
 | Project | What it is |
@@ -55,6 +66,12 @@
 | **[P-Setup](https://github.com/Evan1108-Coder/P-Setup)** | AI-powered CLI that scans projects, installs dependencies, configures environments, and verifies everything works. |
 | **[PlayWright-Local-Status-Data-Playlens](https://github.com/Evan1108-Coder/PlayWright-Local-Status-Data-Playlens)** | Local-first observability dashboard for inspecting and sharing Playwright automation runs. |
 | **[Project-Context-Review-Skill-Claude-Codex](https://github.com/Evan1108-Coder/Project-Context-Review-Skill-Claude-Codex)** | Claude/Codex skill that scans a project and generates structured context so AI understands the codebase before writing code. |
+
+## Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
+</div>
 
 ## Contribution Snake
 
