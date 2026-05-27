@@ -1,0 +1,36 @@
+<svg width="470" height="195" viewBox="0 0 470 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Evan's GitHub Stats</title>
+  <desc id="desc">A compact GitHub stats card for Evan1108-Coder.</desc>
+  <style>
+    .card { fill: #0d1117; }
+    .title { fill: #1f6feb; font: 700 24px Arial, sans-serif; }
+    .label { fill: #4b9aaa; font: 700 17px Arial, sans-serif; }
+    .value { fill: #5bbad0; font: 700 17px Arial, sans-serif; }
+    .icon { fill: none; stroke: #22a7f2; stroke-width: 2.4; stroke-linecap: round; stroke-linejoin: round; }
+    .ring-bg { stroke: #0f2f5f; stroke-width: 11; fill: none; }
+    .ring { stroke: #1f6feb; stroke-width: 11; fill: none; stroke-linecap: round; stroke-dasharray: 223 63; transform: rotate(-90deg); transform-origin: 355px 101px; }
+    .grade { fill: #5bbad0; font: 700 30px Arial, sans-serif; }
+  </style>
+  <rect class="card" width="470" height="195" rx="10"/>
+  <text class="title" x="28" y="42">Evan's GitHub Stats</text>
+
+  <path class="icon" d="M36 69l3.5 7.1 7.8 1.1-5.6 5.5 1.3 7.8-7-3.7-7 3.7 1.3-7.8-5.6-5.5 7.8-1.1L36 69z"/>
+  <text class="label" x="58" y="88">Total Stars Earned:</text>
+  <text class="value" x="245" y="88">26</text>
+
+  <path class="icon" d="M36 105a11 11 0 1 0 9 4.7M36 98v9h-8"/>
+  <text class="label" x="58" y="118">Total Commits:</text>
+  <text class="value" x="245" y="118">228</text>
+
+  <path class="icon" d="M29 135v-16m0 0h14m-14 0l6-6m8 22v-16m0 16H29m14 0l-6 6"/>
+  <text class="label" x="58" y="148">Total PRs:</text>
+  <text class="value" x="245" y="148">4</text>
+
+  <path class="icon" d="M36 158a12 12 0 1 0 0 24 12 12 0 0 0 0-24zm0 6v8m0 5h.01"/>
+  <text class="label" x="58" y="178">Total Issues:</text>
+  <text class="value" x="245" y="178">0</text>
+
+  <circle class="ring-bg" cx="355" cy="101" r="46"/>
+  <circle class="ring" cx="355" cy="101" r="46"/>
+  <text class="grade" x="333" y="111">A</text>
+</svg>

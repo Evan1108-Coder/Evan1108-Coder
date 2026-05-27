@@ -49,8 +49,8 @@
 ## GitHub Highlights
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Evan1108-Coder&custom_title=Evan%27s%20GitHub%20Stats&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Evan's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evan1108-Coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Evan's Most Used Languages" />
+  <img width="470" src="./assets/github-stats.svg" alt="Evan's GitHub Stats" />
+  <img width="470" src="./assets/top-languages.svg" alt="Evan's Most Used Languages" />
 </div>
 
 <div align="center">

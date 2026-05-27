@@ -1,0 +1,38 @@
+<svg width="470" height="195" viewBox="0 0 470 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Evan's Most Used Languages</title>
+  <desc id="desc">A compact most-used-languages card for Evan1108-Coder public repositories.</desc>
+  <style>
+    .card { fill: #0d1117; }
+    .title { fill: #1f6feb; font: 700 24px Arial, sans-serif; }
+    .text { fill: #4b9aaa; font: 500 17px Arial, sans-serif; }
+    .bar-bg { fill: #30363d; }
+  </style>
+  <rect class="card" width="470" height="195" rx="10"/>
+  <text class="title" x="28" y="42">Evan's Most Used Languages</text>
+
+  <rect class="bar-bg" x="28" y="68" width="414" height="11" rx="5.5"/>
+  <rect x="28" y="68" width="190.3" height="11" rx="5.5" fill="#3178c6"/>
+  <rect x="218.3" y="68" width="152.2" height="11" fill="#3572A5"/>
+  <rect x="370.5" y="68" width="29.7" height="11" fill="#b07219"/>
+  <rect x="400.2" y="68" width="20.9" height="11" fill="#663399"/>
+  <rect x="421.1" y="68" width="19.7" height="11" fill="#f1e05a"/>
+  <rect x="440.8" y="68" width="1.2" height="11" fill="#e34c26"/>
+
+  <circle cx="38" cy="112" r="7" fill="#3178c6"/>
+  <text class="text" x="54" y="118">TypeScript 45.97%</text>
+
+  <circle cx="258" cy="112" r="7" fill="#3572A5"/>
+  <text class="text" x="274" y="118">Python 36.79%</text>
+
+  <circle cx="38" cy="145" r="7" fill="#b07219"/>
+  <text class="text" x="54" y="151">Java 7.18%</text>
+
+  <circle cx="258" cy="145" r="7" fill="#663399"/>
+  <text class="text" x="274" y="151">CSS 5.06%</text>
+
+  <circle cx="38" cy="178" r="7" fill="#f1e05a"/>
+  <text class="text" x="54" y="184">JavaScript 4.77%</text>
+
+  <circle cx="258" cy="178" r="7" fill="#e34c26"/>
+  <text class="text" x="274" y="184">HTML 0.25%</text>
+</svg>
