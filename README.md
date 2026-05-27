@@ -29,7 +29,7 @@
 - 🔭 I'm currently working on **[Advanced FlipBook Recreation](https://github.com/Evan1108-Coder/Advanced-FlipBook-Recreation)** & **[P-Setup](https://github.com/Evan1108-Coder/P-Setup)**
 - 🌱 I'm currently learning **AI coding, databases, Python, JavaScript, HTML, GitHub, terminals, full-stack development, and AI/ML**
 - 💡 Interested in **AI-powered tools, creative tech, startups, animation, and developer tooling**
-- 🎬 Passionate about **animation & storytelling with AI**
+- 🎬 Passionate about **Coding with AI, and I believe this is the future**
 - 🎂 Birthday: **November 8**
 - 📫 Reach me at: **evanlu1108@gmail.com**
 
