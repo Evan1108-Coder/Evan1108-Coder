@@ -18,11 +18,15 @@
   <text class="label" x="58" y="88">Total Stars Earned:</text>
   <text class="value" x="245" y="88">26</text>
 
-  <path class="icon" d="M36 105a11 11 0 1 0 9 4.7M36 98v9h-8"/>
+  <circle class="icon" cx="36" cy="110" r="9"/>
+  <path class="icon" d="M36 105v6l5 3"/>
   <text class="label" x="58" y="118">Total Commits:</text>
   <text class="value" x="245" y="118">228</text>
 
-  <path class="icon" d="M29 135v-16m0 0h14m-14 0l6-6m8 22v-16m0 16H29m14 0l-6 6"/>
+  <circle class="icon" cx="30" cy="137" r="3"/>
+  <circle class="icon" cx="30" cy="151" r="3"/>
+  <circle class="icon" cx="45" cy="151" r="3"/>
+  <path class="icon" d="M30 140v8m3 3h9m3-3v-8c0-3-2-5-5-5h-4"/>
   <text class="label" x="58" y="148">Total PRs:</text>
   <text class="value" x="245" y="148">4</text>
 

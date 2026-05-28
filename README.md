@@ -14,20 +14,20 @@
   <a href="mailto:evanlu1108@gmail.com"><img src="https://img.shields.io/badge/Email-evanlu1108%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Evan" /></a>
 </div>
 
-## About Me
+## 🧑‍💻 About Me
 
 <img align="right" alt="AI bot coding animation" width="260" src="./assets/ai-bot-coding.svg"/>
 
-- I'm Evan, a young developer building **AI-powered creative tools, animation projects, and developer utilities**.
-- Currently working on **[Advanced FlipBook Recreation](https://github.com/Evan1108-Coder/Advanced-FlipBook-Recreation)** and **[P-Setup](https://github.com/Evan1108-Coder/P-Setup)**.
-- Learning **AI coding, databases, Python, JavaScript, HTML, GitHub, terminals, full-stack development, and AI/ML**.
-- Interested in **AI-powered tools, creative tech, startups, animation, and developer tooling**.
-- Passionate about **coding with AI, and I believe this is the future**.
-- Birthday: **November 8**.
+- 👋 I'm Evan, a young developer building **AI-powered creative tools, animation projects, and developer utilities**.
+- 🔭 Currently working on **[Advanced FlipBook Recreation](https://github.com/Evan1108-Coder/Advanced-FlipBook-Recreation)** and **[P-Setup](https://github.com/Evan1108-Coder/P-Setup)**.
+- 🌱 Learning **AI coding, databases, Python, JavaScript, HTML, GitHub, terminals, full-stack development, and AI/ML**.
+- 💡 Interested in **AI-powered tools, creative tech, startups, animation, and developer tooling**.
+- 🤖 Passionate about **coding with AI, and I believe this is the future**.
+- 🎂 Birthday: **November 8**.
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Languages & Markup
+### 🧩 Languages & Markup
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -39,7 +39,7 @@
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 
-### App Development
+### 🚀 App Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -52,7 +52,7 @@
 ![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-### AI / ML
+### 🤖 AI / ML
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
@@ -62,7 +62,7 @@
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-### Build, Testing & Infra
+### ⚙️ Build, Testing & Infra
 
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
@@ -82,7 +82,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-### Tools, Protocols & OS
+### 🧰 Tools, Protocols & OS
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -102,7 +102,7 @@
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
-## GitHub Highlights
+## 📊 GitHub Highlights
 
 <div align="center">
   <img width="470" src="./assets/github-stats.svg" alt="Evan's GitHub Stats" />
@@ -113,7 +113,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Evan1108-Coder&theme=tokyo-night&hide_border=true&area=true&height=220" alt="Evan's GitHub Contribution Graph" />
 </div>
 
-## Pinned Projects
+## 📌 Pinned Projects
 
 | Project | What it is |
 | --- | --- |
@@ -123,13 +123,13 @@
 | **[PlayWright-Local-Status-Data-Playlens](https://github.com/Evan1108-Coder/PlayWright-Local-Status-Data-Playlens)** | Local-first observability dashboard for inspecting and sharing Playwright automation runs. |
 | **[Project-Context-Review-Skill-Claude-Codex](https://github.com/Evan1108-Coder/Project-Context-Review-Skill-Claude-Codex)** | Claude/Codex skill that scans a project and generates structured context so AI understands the codebase before writing code. |
 
-## Dev Quote
+## 💬 Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
 </div>
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
