@@ -105,7 +105,7 @@
 ## 📊 GitHub Highlights
 
 <div align="center">
-  <img width="470" src="./assets/github-stats.svg" alt="Evan's GitHub Stats" />
+  <img width="470" src="./assets/github-stats-v2.svg" alt="Evan's GitHub Stats" />
   <img width="470" src="./assets/top-languages.svg" alt="Evan's Most Used Languages" />
 </div>
 
