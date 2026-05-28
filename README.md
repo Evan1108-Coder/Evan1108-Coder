@@ -46,6 +46,40 @@
 
 </div>
 
+**Languages**  
+TypeScript, JavaScript, Python, Java, HTML, CSS, Bash, Markdown, JSON, YAML
+
+**Frontend**  
+React, Next.js, Tailwind CSS, Vite, Electron, Ink
+
+**Backend & Runtime**  
+Node.js, Express, Bun, Deno
+
+**AI & Automation**  
+OpenAI, Anthropic Claude, Google Gemini, GitHub Copilot, Hugging Face, MiniMax, Moonshot Kimi
+
+**Testing**  
+Playwright, Vitest, Jest
+
+**Data & Infra**  
+SQLite, Docker, GitHub Actions, Vercel, Cloudflare, AWS, Nginx
+
+**Tools**  
+Git, GitHub, GitLab, VS Code, Codex, Notion, Obsidian, Ghostty, iTerm2
+
+**APIs**  
+REST, GraphQL, WebSocket, OAuth 2.0, JWT
+
+**Platforms**  
+macOS, Windows, Chrome Extensions, Progressive Web Apps, Monorepos
+
+<details>
+<summary>More tools I've worked with</summary>
+
+npm, pnpm, yarn, Webpack, Rollup, esbuild, tsup, SWC, Turborepo, Lerna
+
+</details>
+
 ## GitHub Highlights
 
 <div align="center">
