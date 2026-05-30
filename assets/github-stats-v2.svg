@@ -18,12 +18,12 @@
   <rect class="icon-bg" x="24" y="73" width="24" height="24" rx="6"/>
   <text class="icon-text" x="36" y="85">★</text>
   <text class="label" x="58" y="88">Total Stars Earned:</text>
-  <text class="value" x="245" y="88">26</text>
+  <text class="value" x="245" y="88">34</text>
 
   <rect class="icon-bg" x="24" y="103" width="24" height="24" rx="6"/>
   <text class="icon-text" x="36" y="115">C</text>
   <text class="label" x="58" y="118">Total Commits:</text>
-  <text class="value" x="245" y="118">228</text>
+  <text class="value" x="245" y="118">260</text>
 
   <rect class="icon-bg" x="24" y="133" width="24" height="24" rx="6"/>
   <text class="icon-text" x="36" y="145">PR</text>

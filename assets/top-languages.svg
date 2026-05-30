@@ -11,28 +11,28 @@
   <text class="title" x="28" y="42">Evan's Most Used Languages</text>
 
   <rect class="bar-bg" x="28" y="68" width="414" height="11" rx="5.5"/>
-  <rect x="28" y="68" width="190.3" height="11" rx="5.5" fill="#3178c6"/>
-  <rect x="218.3" y="68" width="152.2" height="11" fill="#3572A5"/>
-  <rect x="370.5" y="68" width="29.7" height="11" fill="#b07219"/>
-  <rect x="400.2" y="68" width="20.9" height="11" fill="#663399"/>
-  <rect x="421.1" y="68" width="19.7" height="11" fill="#f1e05a"/>
-  <rect x="440.8" y="68" width="1.2" height="11" fill="#e34c26"/>
+  <rect x="28" y="68" width="240.6" height="11" rx="5.5" fill="#3178c6"/>
+  <rect x="268.6" y="68" width="116.5" height="11" fill="#3572A5"/>
+  <rect x="385.1" y="68" width="22.7" height="11" fill="#b07219"/>
+  <rect x="407.8" y="68" width="17.2" height="11" fill="#f1e05a"/>
+  <rect x="425.0" y="68" width="16.1" height="11" fill="#663399"/>
+  <rect x="441.1" y="68" width="0.9" height="11" fill="#e34c26"/>
 
   <circle cx="38" cy="112" r="7" fill="#3178c6"/>
-  <text class="text" x="54" y="118">TypeScript 45.97%</text>
+  <text class="text" x="54" y="118">TypeScript 58.13%</text>
 
   <circle cx="258" cy="112" r="7" fill="#3572A5"/>
-  <text class="text" x="274" y="118">Python 36.79%</text>
+  <text class="text" x="274" y="118">Python 28.14%</text>
 
   <circle cx="38" cy="145" r="7" fill="#b07219"/>
-  <text class="text" x="54" y="151">Java 7.18%</text>
+  <text class="text" x="54" y="151">Java 5.49%</text>
 
-  <circle cx="258" cy="145" r="7" fill="#663399"/>
-  <text class="text" x="274" y="151">CSS 5.06%</text>
+  <circle cx="258" cy="145" r="7" fill="#f1e05a"/>
+  <text class="text" x="274" y="151">JavaScript 4.16%</text>
 
-  <circle cx="38" cy="178" r="7" fill="#f1e05a"/>
-  <text class="text" x="54" y="184">JavaScript 4.77%</text>
+  <circle cx="38" cy="178" r="7" fill="#663399"/>
+  <text class="text" x="54" y="184">CSS 3.88%</text>
 
   <circle cx="258" cy="178" r="7" fill="#e34c26"/>
-  <text class="text" x="274" y="184">HTML 0.25%</text>
+  <text class="text" x="274" y="184">HTML 0.19%</text>
 </svg>
