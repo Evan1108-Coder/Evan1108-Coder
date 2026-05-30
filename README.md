@@ -24,6 +24,7 @@
 - 💡 Interested in **AI-powered tools, creative tech, startups, animation, and developer tooling**.
 - 🤖 Passionate about **coding with AI, and I believe this is the future**.
 - 🎂 Birthday: **November 8**.
+- 🌟 GitHub Stars: **Your stars to my project are my biggest motivations! If you like any of my GitHub projects, if you found them useful or cool - Why don't you leave a star on it?**
 
 ## 🛠️ Tech Stack
 
@@ -122,6 +123,7 @@
 | **[P-Setup](https://github.com/Evan1108-Coder/P-Setup)** | AI-powered CLI that scans projects, installs dependencies, configures environments, and verifies everything works. |
 | **[PlayWright-Local-Status-Data-Playlens](https://github.com/Evan1108-Coder/PlayWright-Local-Status-Data-Playlens)** | Local-first observability dashboard for inspecting and sharing Playwright automation runs. |
 | **[Project-Context-Review-Skill-Claude-Codex](https://github.com/Evan1108-Coder/Project-Context-Review-Skill-Claude-Codex)** | Claude/Codex skill that scans a project and generates structured context so AI understands the codebase before writing code. |
+But honestly - I believe that all my projects are useful. So check them all out! If you like any of my GitHub projects, please leave a star! Thanks!
 
 ## 💬 Dev Quote
 
