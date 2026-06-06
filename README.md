@@ -25,6 +25,23 @@
 - 🤖 Passionate about **coding with AI, and I believe this is the future**.
 - 🎂 Birthday: **November 8**.
 
+## Best Projects
+
+| Project | What it helps with |
+| --- | --- |
+| **[Setupr](https://github.com/Evan1108-Coder/Setupr)** | Automatically detects, installs, configures, and verifies project setup from the terminal. |
+| **[AI Media Studio](https://github.com/Evan1108-Coder/Website-Youtube-File-AI-Scraper)** | Summarizes websites, YouTube videos, documents, images, audio, and video in a desktop/web AI workspace. |
+| **[PlayLens](https://github.com/Evan1108-Coder/PlayWright-Local-Status-Data-Playlens)** | Local-first dashboard for inspecting Playwright runs, browser events, terminal output, and debugging context. |
+| **[AI Debate Council](https://github.com/Evan1108-Coder/AI-Debate-Council)** | Multi-agent debate app where model teams argue, challenge claims, track evidence, and produce judged verdicts. |
+| **[SeedSight](https://github.com/Evan1108-Coder/Minecraft-SeedSight-Map-Mod)** | Minecraft Fabric minimap with seed-based terrain, biome, structure, waypoint, and entity intelligence. |
+| **[Code Testing Skill](https://github.com/Evan1108-Coder/Code-Testing-Skill-Claude-Codex)** | Claude Code and Codex skill for planning, writing, running, and auditing useful tests. |
+
+## Current Focus
+
+- AI automation tools that save setup, research, and debugging time.
+- Developer tools with real workflows, not just demos.
+- Clearer documentation, better testing, and more useful public releases.
+
 ## 🛠️ Tech Stack
 
 ### 🧩 Languages & Markup
