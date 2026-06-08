@@ -1,6 +1,6 @@
 <svg width="470" height="195" viewBox="0 0 470 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Evan's GitHub Stats</title>
-  <desc id="desc">A compact GitHub stats card for Evan1108-Coder.</desc>
+  <desc id="desc">A compact GitHub stats card for Evan1108-Coder, updated from GitHub API data.</desc>
   <style>
     .card { fill: #0d1117; }
     .title { fill: #1f6feb; font: 700 24px Arial, sans-serif; }
@@ -9,7 +9,7 @@
     .icon-bg { fill: #0f2f5f; stroke: #22a7f2; stroke-width: 1.5; }
     .icon-text { fill: #22a7f2; font: 700 14px Arial, sans-serif; text-anchor: middle; dominant-baseline: central; }
     .ring-bg { stroke: #0f2f5f; stroke-width: 11; fill: none; }
-    .ring { stroke: #1f6feb; stroke-width: 11; fill: none; stroke-linecap: round; stroke-dasharray: 223 63; transform: rotate(-90deg); transform-origin: 355px 101px; }
+    .ring { stroke: #1f6feb; stroke-width: 11; fill: none; stroke-linecap: round; stroke-dasharray: 243 43; transform: rotate(-90deg); transform-origin: 355px 101px; }
     .grade { fill: #5bbad0; font: 700 30px Arial, sans-serif; }
   </style>
   <rect class="card" width="470" height="195" rx="10"/>
@@ -21,16 +21,16 @@
   <text class="value" x="245" y="88">36</text>
   <rect class="icon-bg" x="24" y="103" width="24" height="24" rx="6"/>
   <text class="icon-text" x="36" y="115">C</text>
-  <text class="label" x="58" y="118">Total Commits:</text>
-  <text class="value" x="245" y="118">324</text>
+  <text class="label" x="58" y="118">Default-Branch Commits:</text>
+  <text class="value" x="245" y="118">343</text>
   <rect class="icon-bg" x="24" y="133" width="24" height="24" rx="6"/>
-  <text class="icon-text" x="36" y="145">PR</text>
-  <text class="label" x="58" y="148">Total PRs:</text>
-  <text class="value" x="245" y="148">4</text>
+  <text class="icon-text" x="36" y="145">R</text>
+  <text class="label" x="58" y="148">Public Repos:</text>
+  <text class="value" x="245" y="148">11</text>
   <rect class="icon-bg" x="24" y="163" width="24" height="24" rx="6"/>
-  <text class="icon-text" x="36" y="175">!</text>
-  <text class="label" x="58" y="178">Total Issues:</text>
-  <text class="value" x="245" y="178">0</text>
+  <text class="icon-text" x="36" y="175">F</text>
+  <text class="label" x="58" y="178">Followers:</text>
+  <text class="value" x="245" y="178">4</text>
 
   <circle class="ring-bg" cx="355" cy="101" r="46"/>
   <circle class="ring" cx="355" cy="101" r="46"/>

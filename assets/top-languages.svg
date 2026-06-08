@@ -1,6 +1,6 @@
 <svg width="470" height="195" viewBox="0 0 470 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Evan's Most Used Languages</title>
-  <desc id="desc">A compact most-used-languages card for Evan1108-Coder public repositories.</desc>
+  <desc id="desc">A compact most-used-languages card for Evan1108-Coder public repositories, updated from GitHub API byte totals.</desc>
   <style>
     .card { fill: #0d1117; }
     .title { fill: #1f6feb; font: 700 24px Arial, sans-serif; }

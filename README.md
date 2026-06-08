@@ -18,10 +18,10 @@
 
 <img align="right" alt="AI bot coding animation" width="260" src="./assets/ai-bot-coding.svg"/>
 
-- 👋 I'm Evan, a young developer building **AI-powered creative tools, animation projects, and developer utilities**.
-- 🔭 Currently working on **[Advanced FlipBook Recreation](https://github.com/Evan1108-Coder/Advanced-FlipBook-Recreation)** and **[Setupr](https://github.com/Evan1108-Coder/Setupr)**.
-- 🌱 Learning **AI coding, databases, Python, JavaScript, HTML, GitHub, terminals, full-stack development, and AI/ML**.
-- 💡 Interested in **AI-powered tools, creative tech, startups, animation, and developer tooling**.
+- 👋 I'm Evan, a young developer building **AI-powered developer tools, creative systems, automation projects, and GitHub utilities**.
+- 🔭 Currently working on **[Setupr](https://github.com/Evan1108-Coder/Setupr)**, **[AI Media Studio](https://github.com/Evan1108-Coder/Website-Youtube-File-AI-Scraper)**, **[Advanced FlipBook Recreation](https://github.com/Evan1108-Coder/Advanced-FlipBook-Recreation)**, and **[TrendForge Telegram Bot](https://github.com/Evan1108-Coder/TrendForge-Telegram-Bot)**.
+- 🌱 Learning **AI coding, TypeScript, Python, JavaScript, Java, databases, GitHub, terminals, full-stack development, and AI/ML**.
+- 💡 Interested in **AI-powered tools, developer workflows, creative tech, startups, automation, and open-source utilities**.
 - 🤖 Passionate about **coding with AI, and I believe this is the future**.
 - 🎂 Birthday: **November 8**.
 
@@ -49,6 +49,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -134,11 +135,15 @@
 
 | Project | What it is |
 | --- | --- |
-| **[Website-Youtube-File-AI-Scraper](https://github.com/Evan1108-Coder/Website-Youtube-File-AI-Scraper)** | AI-powered Discord bot for summarizing websites, YouTube videos, documents, images, audio clips, and video files with transcript extraction and fallback logic. |
-| **[AI-Debate-Council](https://github.com/Evan1108-Coder/AI-Debate-Council)** | Multi-agent debate system where AI models take structured roles, debate through rounds, and synthesize a judged final answer. |
-| **[Setupr](https://github.com/Evan1108-Coder/Setupr)** | AI-powered setup CLI that scans codebases, installs dependencies, configures environments, and verifies projects across many stacks. |
-| **[PlayWright-Local-Status-Data-Playlens](https://github.com/Evan1108-Coder/PlayWright-Local-Status-Data-Playlens)** | Local-first Playwright observability dashboard for tasks, browser events, terminal output, evidence, exports, and AI-agent context. |
-| **[Project-Context-Review-Skill-Claude-Codex](https://github.com/Evan1108-Coder/Project-Context-Review-Skill-Claude-Codex)** | Claude/Codex skill that scans project structure, conventions, architecture, docs, testing, and design context before AI writes code. |
+| **[Website-Youtube-File-AI-Scraper](https://github.com/Evan1108-Coder/Website-Youtube-File-AI-Scraper)** | AI Media Studio for summarizing websites, YouTube videos, documents, images, audio, and video through a desktop/web workspace. |
+| **[AI-Debate-Council](https://github.com/Evan1108-Coder/AI-Debate-Council)** | Multi-agent AI debate app where model teams argue, challenge claims, track evidence, and produce judged verdicts with analytics. |
+| **[Setupr](https://github.com/Evan1108-Coder/Setupr)** | AI-powered CLI that detects, installs, configures, and verifies project setup automatically. |
+| **[Advanced-FlipBook-Recreation](https://github.com/Evan1108-Coder/Advanced-FlipBook-Recreation)** | Lumen Atlas, a local AI visual knowledge workspace for interactive flipbooks and branching study pages. |
+| **[PlayWright-Local-Status-Data-Playlens](https://github.com/Evan1108-Coder/PlayWright-Local-Status-Data-Playlens)** | Local-first Playwright observability dashboard for inspecting runs, browser events, terminal output, and AI-ready debugging context. |
+| **[TrendForge-Telegram-Bot](https://github.com/Evan1108-Coder/TrendForge-Telegram-Bot)** | Telegram bot that turns GitHub, Hacker News, Reddit, Product Hunt, and Dev.to trends into personalized project ideas. |
+| **[Minecraft-SeedSight-Map-Mod](https://github.com/Evan1108-Coder/Minecraft-SeedSight-Map-Mod)** | Fabric minimap mod for Minecraft 1.21+ with seed-based terrain, biome, structure, waypoint, and entity intelligence. |
+| **[Project-Context-Review-Skill-Claude-Codex](https://github.com/Evan1108-Coder/Project-Context-Review-Skill-Claude-Codex)** | Claude/Codex skill that scans a project and generates structured context before coding, reviewing, testing, or design work. |
+| **[Code-Testing-Skill-Claude-Codex](https://github.com/Evan1108-Coder/Code-Testing-Skill-Claude-Codex)** | Claude Code and Codex skill for planning, writing, running, and auditing meaningful tests in real projects. |
 
 **But honestly, I believe all my projects are useful. Check them all out, and if any project is useful or cool to you, please leave a star. Thanks!**
 
