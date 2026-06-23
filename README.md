@@ -14,7 +14,7 @@
   <a href="mailto:evanlu1108@gmail.com"><img src="https://img.shields.io/badge/Email-evanlu1108%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Evan" /></a>
 </div>
 
-## 🧑‍💻 About Me
+## 👨🏻‍💻 About Me
 
 <img align="right" alt="AI bot coding animation" width="260" src="./assets/ai-bot-coding.svg"/>
 
