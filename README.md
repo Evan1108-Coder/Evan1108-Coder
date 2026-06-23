@@ -29,7 +29,7 @@
 
 | Project | What it helps with |
 | --- | --- |
-| **[Setupr](https://github.com/Evan1108-Coder/Setupr)** | Automatically detects, installs, configures, and verifies project setup from the terminal. |
+| 🏆**[Setupr](https://github.com/Evan1108-Coder/Setupr)** | 🏆**This one is the best!** Automatically detects, installs, configures, and verifies project setup from the terminal. |
 | **[AI Media Studio](https://github.com/Evan1108-Coder/Website-Youtube-File-AI-Scraper)** | Summarizes websites, YouTube videos, documents, images, audio, and video in a desktop/web AI workspace. |
 | **[PlayLens](https://github.com/Evan1108-Coder/PlayWright-Local-Status-Data-Playlens)** | Local-first dashboard for inspecting Playwright runs, browser events, terminal output, and debugging context. |
 | **[AI Debate Council](https://github.com/Evan1108-Coder/AI-Debate-Council)** | Multi-agent debate app where model teams argue, challenge claims, track evidence, and produce judged verdicts. |
