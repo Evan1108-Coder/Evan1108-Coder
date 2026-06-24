@@ -13,6 +13,7 @@ query($login:String!) {
   user(login:$login) {
     repositories(first:100, ownerAffiliations:OWNER, privacy:PUBLIC, orderBy:{field:UPDATED_AT,direction:DESC}) {
       nodes {
+        name
         isFork
         stargazerCount
         languages(first:10, orderBy:{field:SIZE,direction:DESC}) {
@@ -35,20 +36,20 @@ query($login:String!) {
 
 const data = await graphql(query, { login: owner });
 const repos = data.user.repositories.nodes.filter((repo) => !repo.isFork);
+const projectRepos = repos.filter((repo) => repo.name !== owner);
 
-const totals = repos.reduce(
-  (acc, repo) => {
-    acc.stars += repo.stargazerCount || 0;
-    acc.commits += repo.defaultBranchRef?.target?.history?.totalCount || 0;
-    acc.prs += repo.pullRequests?.totalCount || 0;
-    acc.issues += repo.issues?.totalCount || 0;
-    return acc;
-  },
-  { stars: 0, commits: 0, prs: 0, issues: 0 },
-);
+const totals = {
+  stars: repos.reduce((sum, repo) => sum + (repo.stargazerCount || 0), 0),
+  commits: projectRepos.reduce(
+    (sum, repo) => sum + (repo.defaultBranchRef?.target?.history?.totalCount || 0),
+    0,
+  ),
+  prs: repos.reduce((sum, repo) => sum + (repo.pullRequests?.totalCount || 0), 0),
+  issues: repos.reduce((sum, repo) => sum + (repo.issues?.totalCount || 0), 0),
+};
 
 const languages = new Map();
-for (const repo of repos) {
+for (const repo of projectRepos) {
   for (const edge of repo.languages.edges) {
     const current = languages.get(edge.node.name) || {
       name: edge.node.name,
