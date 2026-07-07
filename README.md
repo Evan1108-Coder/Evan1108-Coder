@@ -36,6 +36,8 @@
 | **[SeedSight](https://github.com/Evan1108-Coder/Minecraft-SeedSight-Map-Mod)** | Minecraft Fabric minimap with seed-based terrain, biome, structure, waypoint, and entity intelligence. |
 | **[Code Testing Skill](https://github.com/Evan1108-Coder/Code-Testing-Skill-Claude-Codex)** | Claude Code and Codex skill for planning, writing, running, and auditing useful tests. |
 
+**But honestly, I believe all my projects are useful. Check them all out, and if any project is useful or cool to you, please leave a star. Thanks!**
+
 ## Current Focus
 
 - AI automation tools that save setup, research, and debugging time.
@@ -130,22 +132,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Evan1108-Coder&theme=tokyo-night&hide_border=true&area=true&height=220" alt="Evan's GitHub Contribution Graph" />
 </div>
-
-## 📌 Pinned Projects
-
-| Project | What it is |
-| --- | --- |
-| **[Website-Youtube-File-AI-Scraper](https://github.com/Evan1108-Coder/Website-Youtube-File-AI-Scraper)** | AI Media Studio for summarizing websites, YouTube videos, documents, images, audio, and video through a desktop/web workspace. |
-| **[AI-Debate-Council](https://github.com/Evan1108-Coder/AI-Debate-Council)** | Multi-agent AI debate app where model teams argue, challenge claims, track evidence, and produce judged verdicts with analytics. |
-| **[Setupr](https://github.com/Evan1108-Coder/Setupr)** | AI-powered CLI that detects, installs, configures, and verifies project setup automatically. |
-| **[Advanced-FlipBook-Recreation](https://github.com/Evan1108-Coder/Advanced-FlipBook-Recreation)** | Lumen Atlas: local AI visual knowledge workspace for interactive flipbooks, branching pages, and study tools on an infinite canvas. |
-| **[PlayWright-Local-Status-Data-Playlens](https://github.com/Evan1108-Coder/PlayWright-Local-Status-Data-Playlens)** | Local-first Playwright observability dashboard for inspecting runs, browser events, terminal output, and AI-ready debugging context. |
-| **[TrendForge-Telegram-Bot](https://github.com/Evan1108-Coder/TrendForge-Telegram-Bot)** | Telegram bot that turns GitHub, Hacker News, Reddit, Product Hunt, and Dev.to trends into personalized project ideas. |
-| **[Minecraft-SeedSight-Map-Mod](https://github.com/Evan1108-Coder/Minecraft-SeedSight-Map-Mod)** | Fabric minimap mod for Minecraft 1.21+ with seed-based terrain, biome, structure, waypoint, and entity intelligence. |
-| **[Project-Context-Review-Skill-Claude-Codex](https://github.com/Evan1108-Coder/Project-Context-Review-Skill-Claude-Codex)** | Claude and Codex skill that scans a project and creates structured context before coding, reviewing, testing, or design work. |
-| **[Code-Testing-Skill-Claude-Codex](https://github.com/Evan1108-Coder/Code-Testing-Skill-Claude-Codex)** | Claude Code and Codex skill for planning, writing, running, and auditing meaningful tests in real projects. |
-
-**But honestly, I believe all my projects are useful. Check them all out, and if any project is useful or cool to you, please leave a star. Thanks!**
 
 ## 💬 Dev Quote
 
