@@ -11,21 +11,21 @@
   <text class="title" x="28" y="42">Evan's Most Used Languages</text>
 
   <rect class="bar-bg" x="28" y="68" width="414" height="11" rx="5.5"/>
-  <rect x="28.0" y="68" width="211.3" height="11" rx="5.5" fill="#3178c6"/>
-  <rect x="239.3" y="68" width="96.8" height="11" fill="#f1e05a"/>
+  <rect x="28.0" y="68" width="211.2" height="11" rx="5.5" fill="#3178c6"/>
+  <rect x="239.2" y="68" width="96.9" height="11" fill="#f1e05a"/>
   <rect x="336.1" y="68" width="79.0" height="11" fill="#3572A5"/>
   <rect x="415.1" y="68" width="15.3" height="11" fill="#b07219"/>
   <rect x="430.4" y="68" width="11.1" height="11" fill="#663399"/>
   <rect x="441.5" y="68" width="0.5" height="11" fill="#e34c26"/>
 
   <circle cx="38" cy="112" r="7" fill="#3178c6"/>
-  <text class="text" x="54" y="118">TypeScript 51.04%</text>
+  <text class="text" x="54" y="118">TypeScript 51.02%</text>
 
   <circle cx="258" cy="112" r="7" fill="#f1e05a"/>
-  <text class="text" x="274" y="118">JavaScript 23.38%</text>
+  <text class="text" x="274" y="118">JavaScript 23.41%</text>
 
   <circle cx="38" cy="145" r="7" fill="#3572A5"/>
-  <text class="text" x="54" y="151">Python 19.08%</text>
+  <text class="text" x="54" y="151">Python 19.07%</text>
 
   <circle cx="258" cy="145" r="7" fill="#b07219"/>
   <text class="text" x="274" y="151">Java 3.70%</text>
